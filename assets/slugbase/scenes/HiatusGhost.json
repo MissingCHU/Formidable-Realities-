@@ -1,0 +1,47 @@
+{
+	"id": "Ghost_Hiatus",
+	"scene_folder": "scenes/HiatusGhost",
+	"images": [
+		{
+			"name": "Ghost Flat",
+			"pos": [ 0, 100 ],
+			"depth": -1,
+			"flatmode": true
+		},
+		{
+			"name": "Ghost Glow",
+			"pos": [ 0, 0 ],
+			"depth": 3.7,
+			"shader": "Basic"
+		},
+		{
+			"name": "Ghost Sparks",
+			"pos": [ 0, 100 ],
+			"depth": 3.4,
+			"shader": "Basic"
+		},
+		{
+			"name": "Ghost Vinki Trail",
+			"pos": [ 683, 484 ],
+			"depth": 2.2,
+			"shader": "Basic"
+		},
+		{
+			"name": "Ghost Impossible",
+			"pos": [ 0, 0 ],
+			"depth": 2.2,
+			"shader": "Basic"
+		},
+		{
+			"name": "Ghost Can",
+			"pos": [ 0, 100 ],
+			"depth": 2.0,
+			"shader": "Basic"
+		}
+	],
+	"idle_depths": [ 2.8 ],
+	"glow_pos": [688, 484],
+	"mark_pos": [689, 583],
+	"select_menu_pos": [0, 0],
+	"slugcat_depth": 2.8
+}
