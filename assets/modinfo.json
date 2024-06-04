@@ -1,11 +1,10 @@
 ﻿{
-  "id": "testmod",
-  "name": "Test Mod",
+  "id": "formidablerealitiesdlc",
+  "name": "Formidable Realities",
   "version": "0.1.0",
-  "authors": "Author",
-  "target_game_version": "v1.9",
-  "description": "Put a neat description here",
-  "tags": [],
+  "authors": "MissingCHU",
+  "description": "A fan-made DLC for Rainworld Downpour. Still WIP so it may cause multiple bugs.",
+  "tags": ["Campaigns"],
   "requirements": [],
   "requirements_names": [],
   "checksum_override_version": false
